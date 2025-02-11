@@ -1,3 +1,3 @@
 # python_basics
-Here's my first Python projects and training examples before starting my Data science journey
-I did these code 3 years ago and with this example, I would get familiar with Python programming language
+Here are my first Python projects and training examples from three years ago. 
+I worked on these before starting my Data Science journey to get familiar with the Python programming language.
