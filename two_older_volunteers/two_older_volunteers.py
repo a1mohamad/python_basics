@@ -1,6 +1,6 @@
 person1 = int (input())
 person2 = int (input())
-if person1 > person22 :
+if person1 > person2 :
     older = person1
     co_older = person2
 else :
