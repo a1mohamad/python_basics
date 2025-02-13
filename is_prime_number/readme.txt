@@ -1,0 +1,1 @@
+In this exercise, we receive a number as input from user and tell him this number is a prime number or not:))
