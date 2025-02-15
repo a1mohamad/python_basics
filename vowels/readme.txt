@@ -9,3 +9,13 @@ We want to write a program to read a string from the input and apply the followi
 3- Write all the remaining silent letters in lowercase.
 
 (vowels are aeiou)
+
+for example:
+
+input:
+
+aBAcAba
+
+output:
+
+.b.c.b
