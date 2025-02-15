@@ -2,7 +2,7 @@
 string = input()
 output = ''
 for i in range(0 , len(string)):
-        if vorodi[i] == '1' :
+        if string[i] == '1' :
             output = output + string[i] + '+'
 
 for j in range(0 , len(string)):
