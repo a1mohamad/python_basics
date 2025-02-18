@@ -5,3 +5,14 @@ In this exercise, we receive our user age as input and tell the user the age cat
 14-24  :  adult
 24-40  :  young
 40>  :  old
+
+
+for example:
+
+input:
+
+17
+
+output:
+
+adult
