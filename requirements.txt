@@ -1,0 +1,3 @@
+all libraries that used it this repository are in standard python library
+so you just need to run a simple python IDE.
+python v.(used when I do this exercises) == 3.4
